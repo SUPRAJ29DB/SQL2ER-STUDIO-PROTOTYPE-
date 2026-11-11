@@ -105,3 +105,5 @@ No package manager, framework, or server is required.
 ## License
 
 No license has been specified yet.
+<img width="1888" height="980" alt="image" src="https://github.com/user-attachments/assets/9ca6e784-65b2-41d8-9062-36ac8f81dcbf" />
+
