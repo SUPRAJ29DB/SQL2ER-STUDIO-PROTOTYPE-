@@ -1,4 +1,4 @@
-# SQL2ER Studio Prototype
+# SQL2ER Studio (Prototype)
 
 SQL2ER Studio is a lightweight, browser-based tool that turns SQL table definitions into an interactive entity-relationship (ER) diagram. It also checks common schema design issues and explains tables, keys, relationships, and normalization concepts in plain language.
 
